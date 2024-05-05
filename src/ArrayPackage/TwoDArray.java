@@ -12,6 +12,8 @@ public class TwoDArray {
         };
 
         System.out.println(array.length);
+        System.out.println("This is 2D array");
+
 
     }
 }
